@@ -7,6 +7,7 @@
 
   <h1>Gloves Up</h1>
   <p>Your Fight. Your Legacy.</p>
-  <a href="privacyPolicy" target="_blank">Privacy Policy</a>
+  <a href="privacyPolicy.html" target="_blank">Privacy Policy</a>
+  <a href="privacy-policy.html" target="_blank">Privacy Policy</a>
 </body>
 </html>
