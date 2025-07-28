@@ -1,11 +1,14 @@
 <!DOCTYPE html>
-![Gloves Up Cover Art](Assets/Gloves up_game cover.jpg)
 <html lang="en">
 <head>
+  <meta charset="UTF-8">
+  <title>Gloves Up</title>
 </head>
-<body>  
+<body>
+  <img src="Assets/Gloves up_game cover.jpg" alt="Gloves Up Cover Art" width="600">
+
   <h1>Gloves Up</h1>
-  <p>Step into the ring with our immersive VR boxing experience.</p>
+  <p>Your Fight. Your Legacy.</p>
   <a href="https://app.termly.io/dashboard/website/c5014250-07f5-4a21-abe3-8449879511e5/privacy-policy" target="_blank">Privacy Policy</a>
 </body>
 </html>
