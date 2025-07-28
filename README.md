@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>Gloves Up</title>
 </head>
 <body>
   <img src="Assets/Gloves up_game cover.jpg" alt="Gloves Up Cover Art" width="600">
