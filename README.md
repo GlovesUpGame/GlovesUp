@@ -1,6 +1,5 @@
-![Gloves Up Cover Art](Assets/Gloves up_game cover.jpg)
-
 <!DOCTYPE html>
+![Gloves Up Cover Art](Assets/Gloves up_game cover.jpg)
 <html lang="en">
 <head>
 </head>
