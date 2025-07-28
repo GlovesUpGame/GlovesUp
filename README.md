@@ -7,6 +7,6 @@
 
   <h1>Gloves Up</h1>
   <p>Your Fight. Your Legacy.</p>
-  <a href="https://app.termly.io/dashboard/website/c5014250-07f5-4a21-abe3-8449879511e5/privacy-policy" target="_blank">Privacy Policy</a>
+  <a href="privacyPolicy" target="_blank">Privacy Policy</a>
 </body>
 </html>
