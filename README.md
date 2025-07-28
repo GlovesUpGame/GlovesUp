@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Glove Up</title>
 </head>
 <body>
   ![Gloves Up Cover Art](Assets/Gloves up_game cover.jpg)  
